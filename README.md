@@ -1,2 +1,1 @@
-NAMA  : Gineng Bimo Pamungkas
-NIM   : 607052300013
+merupakan tugas besar dari mata kuliah bengkel pemrograman 2, yaitu membuat sebuah website kopi sederhana dengan menggunakan html,css,php,dan sedikit sql, untuk fitur utama website yaitu payment dengan menggunakan midtrans.
