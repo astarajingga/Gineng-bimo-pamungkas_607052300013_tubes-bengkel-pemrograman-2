@@ -1,20 +1,21 @@
-Penjualan Biji Kopi Lokal Indonesia
+✨Penjualan Biji Kopi Lokal Indonesia✨
 
 Selamat datang di repository proyek Penjualan Biji Kopi Lokal Indonesia! 🎉
 
 Proyek ini adalah website sederhana untuk menjual biji kopi lokal Indonesia dengan fitur pembayaran terintegrasi menggunakan Midtrans.
 
 Fitur
-Beranda: Tampilan halaman utama yang menarik dengan informasi singkat tentang kopi lokal.
-Daftar Produk: Menampilkan daftar biji kopi yang tersedia untuk dijual lengkap dengan deskripsi dan harga.
-Detail Produk: Informasi mendetail tentang setiap produk kopi.
-Keranjang Belanja: Fitur untuk menambahkan produk ke keranjang belanja dan melihat total harga.
-Pembayaran: Integrasi dengan Midtrans untuk memproses pembayaran dengan aman dan cepat.
+1. Beranda: Tampilan halaman utama yang menarik dengan informasi singkat tentang kopi lokal.
+2. Daftar Produk: Menampilkan daftar biji kopi yang tersedia untuk dijual lengkap dengan deskripsi dan harga.
+3. Detail Produk: Informasi mendetail tentang setiap produk kopi.
+4. Keranjang Belanja: Fitur untuk menambahkan produk ke keranjang belanja dan melihat total harga.
+5. Pembayaran: Integrasi dengan Midtrans untuk memproses pembayaran dengan aman dan cepat.
+
 Teknologi yang Digunakan
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-Payment Gateway: Midtrans
+1. Frontend: HTML, CSS, JavaScript
+2. Backend: Node.js, Express.js
+3. Database: sql
+4. Payment Gateway: Midtrans
 Instalasi
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini secara lokal di komputer Anda:
 
